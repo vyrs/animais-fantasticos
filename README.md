@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 [Clique aqui](https://vyrs.github.io/animais-fantasticos/ "Site em Deploy") para conferir o site em seu browser 🖖
 
-Feito Durante o Curso de JavaScript da Origamid.
+Projeto inspirado no animais fantásticos desenvolvido durante o Curso de JavaScript da Origamid com algumas melhorias que eu desenvolvi.
